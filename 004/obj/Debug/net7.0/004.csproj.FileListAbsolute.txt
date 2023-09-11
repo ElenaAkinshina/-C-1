@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\повторение обучения\1\004\bin\Debug\net7.0\004.exe
+C:\Users\user\Desktop\повторение обучения\1\004\bin\Debug\net7.0\004.deps.json
+C:\Users\user\Desktop\повторение обучения\1\004\bin\Debug\net7.0\004.runtimeconfig.json
+C:\Users\user\Desktop\повторение обучения\1\004\bin\Debug\net7.0\004.dll
+C:\Users\user\Desktop\повторение обучения\1\004\bin\Debug\net7.0\004.pdb
+C:\Users\user\Desktop\повторение обучения\1\004\obj\Debug\net7.0\004.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\повторение обучения\1\004\obj\Debug\net7.0\004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\повторение обучения\1\004\obj\Debug\net7.0\004.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\повторение обучения\1\004\obj\Debug\net7.0\004.AssemblyInfo.cs
+C:\Users\user\Desktop\повторение обучения\1\004\obj\Debug\net7.0\004.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\повторение обучения\1\004\obj\Debug\net7.0\004.dll
+C:\Users\user\Desktop\повторение обучения\1\004\obj\Debug\net7.0\refint\004.dll
+C:\Users\user\Desktop\повторение обучения\1\004\obj\Debug\net7.0\004.pdb
+C:\Users\user\Desktop\повторение обучения\1\004\obj\Debug\net7.0\004.genruntimeconfig.cache
+C:\Users\user\Desktop\повторение обучения\1\004\obj\Debug\net7.0\ref\004.dll
